@@ -1,3 +1,4 @@
+require "accountability/configuration"
 require "accountability/engine"
 require "accountability/version"
 
